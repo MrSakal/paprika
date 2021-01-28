@@ -1,0 +1,22 @@
+body {
+    background-color: papayawhip;
+    color: saddlebrown;
+}
+
+td{
+    color: saddlebrown;
+}
+
+th{
+    color: saddlebrown;
+}
+
+#kep{
+    width: 200;
+    height: 50;
+    border: 1;
+}
+
+div{
+    text-align: center;
+}
