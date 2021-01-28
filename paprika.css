@@ -20,3 +20,19 @@ th{
 div{
     text-align: center;
 }
+
+#jobbra{
+    text-align: left;
+    float: right;
+    height: auto;
+    width: 450px;
+    height: 900px;
+}
+
+#balra{
+    text-align: left;
+    float: left;
+    height: auto;
+    width: 500px;
+    height: 900px;
+}
